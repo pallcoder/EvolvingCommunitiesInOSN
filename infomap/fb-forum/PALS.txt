@@ -1,0 +1,1880 @@
+Time0:Community0:
+7           
+[1, 44, 60, 329, 495, 599, 600]Community1:
+2           
+[2, 619]Community2:
+3           
+[3, 156, 723]Community3:
+9           
+[4, 30, 367, 443, 620, 667, 669, 864, 888]Community4:
+2           
+[5, 98]Community5:
+6           
+[6, 131, 237, 452, 671, 716]Community6:
+2           
+[7, 288]Community7:
+3           
+[8, 412, 490]Community8:
+4           
+[13, 467, 618, 757]Community9:
+2           
+[14, 887]Community10:
+2           
+[18, 897]Community11:
+5           
+[19, 59, 118, 430, 491]Community12:
+2           
+[20, 86]Community13:
+4           
+[23, 281, 423, 766]Community14:
+4           
+[24, 69, 487, 730]Community15:
+7           
+[25, 40, 210, 317, 345, 722, 858]Community16:
+6           
+[27, 150, 196, 375, 474, 625]Community17:
+4           
+[31, 238, 720, 868]Community18:
+2           
+[32, 824]Community19:
+3           
+[33, 269, 313]Community20:
+2           
+[34, 282]Community21:
+2           
+[35, 745]Community22:
+4           
+[36, 351, 700, 895]Community23:
+4           
+[37, 242, 728, 833]Community24:
+3           
+[38, 180, 187]Community25:
+4           
+[39, 692, 785, 894]Community26:
+2           
+[41, 324]Community27:
+4           
+[42, 280, 504, 520]Community28:
+3           
+[43, 350, 419]Community29:
+5           
+[45, 115, 296, 481, 615]Community30:
+13           
+[46, 152, 166, 169, 174, 261, 356, 379, 414, 694, 714, 717, 751]Community31:
+3           
+[47, 128, 271]Community32:
+2           
+[48, 522]Community33:
+4           
+[49, 247, 285, 330]Community34:
+3           
+[50, 632, 840]Community35:
+3           
+[51, 748, 830]Community36:
+2           
+[52, 81]Community37:
+2           
+[53, 83]Community38:
+3           
+[54, 62, 875]Community39:
+4           
+[55, 203, 314, 718]Community40:
+2           
+[56, 543]Community41:
+7           
+[57, 135, 292, 456, 572, 598, 837]Community42:
+3           
+[58, 61, 715]Community43:
+2           
+[63, 96]Community44:
+2           
+[64, 737]Community45:
+3           
+[65, 132, 221]Community46:
+2           
+[66, 340]Community47:
+2           
+[70, 558]Community48:
+7           
+[71, 167, 170, 233, 358, 690, 709]Community49:
+8           
+[72, 117, 249, 256, 437, 483, 637, 856]Community50:
+3           
+[73, 236, 898]Community51:
+3           
+[74, 591, 890]Community52:
+4           
+[75, 348, 391, 747]Community53:
+4           
+[76, 97, 485, 812]Community54:
+3           
+[77, 519, 624]Community55:
+5           
+[78, 385, 388, 846, 880]Community56:
+3           
+[79, 446, 588]Community57:
+3           
+[80, 870, 878]Community58:
+4           
+[82, 364, 585, 712]Community59:
+4           
+[84, 549, 555, 790]Community60:
+3           
+[85, 228, 753]Community61:
+3           
+[87, 576, 779]Community62:
+4           
+[88, 212, 316, 612]Community63:
+2           
+[89, 752]Community64:
+3           
+[90, 240, 253]Community65:
+4           
+[91, 158, 435, 867]Community66:
+6           
+[92, 333, 378, 686, 707, 778]Community67:
+6           
+[93, 286, 518, 742, 783, 836]Community68:
+2           
+[94, 127]Community69:
+2           
+[95, 429]Community70:
+5           
+[99, 182, 592, 613, 673]Community71:
+5           
+[100, 289, 746, 749, 850]Community72:
+2           
+[101, 432]Community73:
+3           
+[102, 206, 209]Community74:
+3           
+[103, 344, 494]Community75:
+2           
+[104, 851]Community76:
+3           
+[105, 272, 863]Community77:
+3           
+[106, 764, 891]Community78:
+3           
+[107, 176, 627]Community79:
+3           
+[108, 760, 822]Community80:
+3           
+[109, 198, 704]Community81:
+3           
+[110, 586, 726]Community82:
+4           
+[111, 422, 477, 616]Community83:
+5           
+[112, 185, 231, 254, 606]Community84:
+3           
+[114, 121, 421]Community85:
+4           
+[116, 469, 710, 727]Community86:
+3           
+[119, 294, 482]Community87:
+3           
+[120, 241, 841]Community88:
+4           
+[122, 411, 538, 792]Community89:
+3           
+[123, 264, 274]Community90:
+2           
+[124, 839]Community91:
+4           
+[125, 183, 202, 215]Community92:
+3           
+[126, 609, 635]Community93:
+2           
+[129, 601]Community94:
+2           
+[130, 189]Community95:
+2           
+[133, 636]Community96:
+7           
+[134, 177, 224, 226, 503, 611, 631]Community97:
+2           
+[136, 544]Community98:
+4           
+[147, 431, 589, 689]Community99:
+2           
+[148, 829]Community100:
+3           
+[149, 392, 514]Community101:
+2           
+[153, 835]Community102:
+4           
+[154, 486, 643, 705]Community103:
+2           
+[155, 744]Community104:
+3           
+[157, 559, 623]Community105:
+2           
+[159, 842]Community106:
+4           
+[164, 320, 508, 516]Community107:
+5           
+[171, 268, 310, 322, 445]Community108:
+4           
+[172, 179, 341, 471]Community109:
+5           
+[173, 227, 640, 763, 862]Community110:
+3           
+[178, 470, 743]Community111:
+2           
+[181, 594]Community112:
+11           
+[184, 217, 338, 387, 512, 583, 687, 702, 733, 750, 883]Community113:
+2           
+[186, 376]Community114:
+2           
+[188, 219]Community115:
+6           
+[190, 284, 451, 735, 787, 813]Community116:
+2           
+[192, 703]Community117:
+2           
+[193, 706]Community118:
+4           
+[194, 373, 547, 739]Community119:
+3           
+[197, 267, 362]Community120:
+3           
+[200, 484, 634]Community121:
+2           
+[201, 517]Community122:
+5           
+[204, 278, 297, 597, 602]Community123:
+2           
+[205, 540]Community124:
+6           
+[208, 244, 381, 545, 587, 838]Community125:
+5           
+[211, 239, 417, 668, 849]Community126:
+3           
+[214, 499, 832]Community127:
+4           
+[216, 497, 791, 874]Community128:
+3           
+[218, 696, 889]Community129:
+3           
+[220, 496, 885]Community130:
+5           
+[222, 273, 384, 434, 507]Community131:
+3           
+[223, 767, 788]Community132:
+2           
+[225, 881]Community133:
+2           
+[229, 418]Community134:
+4           
+[230, 331, 701, 896]Community135:
+6           
+[232, 250, 318, 343, 389, 713]Community136:
+2           
+[234, 789]Community137:
+2           
+[235, 608]Community138:
+6           
+[243, 290, 500, 524, 560, 604]Community139:
+2           
+[245, 677]Community140:
+2           
+[248, 719]Community141:
+4           
+[251, 582, 645, 853]Community142:
+2           
+[252, 656]Community143:
+4           
+[257, 548, 552, 610]Community144:
+3           
+[258, 346, 644]Community145:
+3           
+[260, 551, 773]Community146:
+2           
+[265, 464]Community147:
+2           
+[266, 848]Community148:
+4           
+[270, 323, 736, 872]Community149:
+4           
+[275, 293, 629, 814]Community150:
+3           
+[276, 436, 781]Community151:
+3           
+[277, 321, 447]Community152:
+3           
+[279, 428, 711]Community153:
+4           
+[283, 390, 731, 884]Community154:
+2           
+[287, 607]Community155:
+2           
+[291, 394]Community156:
+2           
+[295, 776]Community157:
+3           
+[308, 638, 871]Community158:
+3           
+[311, 393, 820]Community159:
+3           
+[315, 553, 596]Community160:
+2           
+[319, 363]Community161:
+3           
+[325, 479, 877]Community162:
+3           
+[326, 825, 855]Community163:
+3           
+[328, 685, 772]Community164:
+3           
+[332, 775, 786]Community165:
+3           
+[334, 395, 433]Community166:
+2           
+[335, 780]Community167:
+2           
+[336, 729]Community168:
+3           
+[339, 349, 761]Community169:
+4           
+[342, 360, 515, 577]Community170:
+2           
+[347, 556]Community171:
+2           
+[352, 641]Community172:
+2           
+[353, 523]Community173:
+3           
+[354, 721, 734]Community174:
+2           
+[355, 420]Community175:
+2           
+[357, 821]Community176:
+5           
+[359, 415, 473, 575, 823]Community177:
+2           
+[361, 444]Community178:
+2           
+[365, 882]Community179:
+3           
+[369, 372, 857]Community180:
+3           
+[370, 546, 579]Community181:
+2           
+[371, 741]Community182:
+2           
+[374, 380]Community183:
+3           
+[382, 426, 542]Community184:
+2           
+[383, 869]Community185:
+2           
+[386, 578]Community186:
+3           
+[405, 590, 732]Community187:
+2           
+[424, 738]Community188:
+2           
+[425, 777]Community189:
+4           
+[441, 678, 708, 873]Community190:
+2           
+[442, 460]Community191:
+2           
+[448, 450]Community192:
+3           
+[461, 498, 670]Community193:
+3           
+[462, 675, 818]Community194:
+5           
+[463, 526, 688, 843, 886]Community195:
+2           
+[466, 541]Community196:
+4           
+[468, 502, 844, 866]Community197:
+2           
+[472, 676]Community198:
+3           
+[475, 628, 774]Community199:
+3           
+[478, 510, 626]Community200:
+2           
+[492, 859]Community201:
+4           
+[493, 573, 759, 845]Community202:
+3           
+[501, 580, 639]Community203:
+2           
+[505, 584]Community204:
+2           
+[506, 622]Community205:
+3           
+[509, 593, 899]Community206:
+3           
+[511, 758, 815]Community207:
+2           
+[521, 633]Community208:
+2           
+[530, 816]Community209:
+2           
+[539, 662]Community210:
+2           
+[554, 642]Community211:
+2           
+[557, 770]Community212:
+2           
+[574, 691]Community213:
+2           
+[581, 693]Community214:
+2           
+[595, 831]Community215:
+4           
+[617, 672, 674, 893]Community216:
+2           
+[724, 861]Community217:
+2           
+[725, 834]Community218:
+2           
+[740, 782]Community219:
+2           
+[762, 826]Community220:
+2           
+[817, 876]Community221:
+2           
+[827, 852]Community222:
+2           
+[854, 892]Community223:
+1           
+[860]Communities count: 224
+Time1:Community0:
+2           
+[1, 741]Community1:
+3           
+[2, 128, 619]Community2:
+5           
+[3, 283, 548, 662, 667]Community3:
+5           
+[4, 60, 600, 669, 798]Community4:
+2           
+[5, 373]Community5:
+3           
+[6, 47, 729]Community6:
+3           
+[7, 578, 780]Community7:
+5           
+[8, 103, 122, 716, 759]Community8:
+6           
+[9, 52, 107, 251, 259, 726]Community9:
+5           
+[10, 181, 391, 562, 809]Community10:
+9           
+[11, 15, 30, 50, 207, 272, 439, 684, 826]Community11:
+7           
+[13, 192, 322, 363, 385, 836, 894]Community12:
+7           
+[14, 22, 29, 186, 328, 484, 606]Community13:
+6           
+[16, 149, 352, 641, 728, 879]Community14:
+5           
+[17, 83, 487, 681, 730]Community15:
+3           
+[18, 204, 238]Community16:
+4           
+[19, 616, 706, 787]Community17:
+2           
+[21, 286]Community18:
+4           
+[26, 40, 278, 464]Community19:
+3           
+[28, 182, 254]Community20:
+4           
+[31, 345, 622, 828]Community21:
+3           
+[32, 216, 738]Community22:
+2           
+[33, 579]Community23:
+5           
+[34, 353, 379, 523, 629]Community24:
+6           
+[35, 305, 425, 507, 510, 804]Community25:
+2           
+[36, 351]Community26:
+3           
+[37, 422, 880]Community27:
+12           
+[38, 175, 187, 220, 483, 511, 535, 625, 637, 714, 875, 892]Community28:
+6           
+[39, 77, 248, 323, 356, 437]Community29:
+2           
+[41, 324]Community30:
+4           
+[43, 350, 419, 725]Community31:
+4           
+[44, 92, 297, 316]Community32:
+7           
+[45, 237, 252, 486, 561, 602, 762]Community33:
+4           
+[46, 133, 255, 552]Community34:
+6           
+[48, 96, 202, 712, 731, 790]Community35:
+3           
+[49, 98, 567]Community36:
+2           
+[51, 610]Community37:
+3           
+[53, 152, 624]Community38:
+3           
+[54, 682, 865]Community39:
+2           
+[55, 522]Community40:
+4           
+[56, 85, 331, 541]Community41:
+2           
+[57, 292]Community42:
+2           
+[58, 862]Community43:
+4           
+[59, 193, 284, 740]Community44:
+2           
+[61, 275]Community45:
+2           
+[62, 644]Community46:
+2           
+[63, 495]Community47:
+5           
+[64, 203, 300, 403, 887]Community48:
+2           
+[65, 184]Community49:
+4           
+[66, 125, 179, 493]Community50:
+7           
+[67, 72, 423, 453, 463, 593, 685]Community51:
+2           
+[68, 148]Community52:
+2           
+[69, 758]Community53:
+5           
+[70, 124, 318, 839, 848]Community54:
+2           
+[71, 838]Community55:
+3           
+[73, 241, 586]Community56:
+6           
+[75, 293, 458, 531, 643, 870]Community57:
+3           
+[78, 190, 825]Community58:
+4           
+[80, 109, 349, 536]Community59:
+2           
+[81, 134]Community60:
+3           
+[84, 330, 336]Community61:
+3           
+[86, 209, 597]Community62:
+3           
+[87, 444, 639]Community63:
+5           
+[88, 120, 569, 670, 779]Community64:
+4           
+[89, 392, 498, 806]Community65:
+3           
+[90, 529, 867]Community66:
+3           
+[91, 514, 871]Community67:
+2           
+[93, 233]Community68:
+4           
+[94, 164, 320, 508]Community69:
+2           
+[97, 141]Community70:
+2           
+[99, 743]Community71:
+6           
+[100, 208, 288, 289, 773, 815]Community72:
+4           
+[101, 298, 338, 774]Community73:
+3           
+[102, 185, 859]Community74:
+3           
+[104, 332, 851]Community75:
+3           
+[105, 449, 747]Community76:
+3           
+[106, 703, 891]Community77:
+3           
+[108, 760, 822]Community78:
+4           
+[113, 155, 751, 847]Community79:
+4           
+[117, 394, 769, 844]Community80:
+3           
+[118, 708, 750]Community81:
+3           
+[119, 140, 811]Community82:
+4           
+[121, 424, 696, 890]Community83:
+2           
+[123, 287]Community84:
+3           
+[126, 359, 823]Community85:
+2           
+[127, 842]Community86:
+3           
+[129, 372, 601]Community87:
+4           
+[130, 213, 574, 711]Community88:
+2           
+[131, 224]Community89:
+3           
+[132, 416, 782]Community90:
+5           
+[135, 339, 560, 882, 896]Community91:
+3           
+[136, 319, 473]Community92:
+9           
+[137, 147, 223, 230, 262, 304, 388, 736, 764]Community93:
+3           
+[138, 205, 615]Community94:
+3           
+[139, 431, 744]Community95:
+3           
+[142, 784, 830]Community96:
+7           
+[144, 247, 290, 680, 763, 837, 885]Community97:
+2           
+[150, 375]Community98:
+4           
+[153, 594, 698, 835]Community99:
+5           
+[154, 196, 656, 705, 810]Community100:
+4           
+[156, 235, 608, 856]Community101:
+2           
+[157, 367]Community102:
+8           
+[158, 299, 315, 360, 501, 537, 572, 694]Community103:
+3           
+[159, 374, 478]Community104:
+9           
+[160, 229, 256, 263, 435, 436, 721, 734, 796]Community105:
+1           
+[161]Community106:
+5           
+[162, 165, 604, 824, 850]Community107:
+4           
+[163, 173, 442, 765]Community108:
+4           
+[166, 389, 393, 812]Community109:
+3           
+[168, 516, 807]Community110:
+4           
+[171, 445, 688, 853]Community111:
+5           
+[172, 228, 243, 415, 549]Community112:
+3           
+[176, 231, 452]Community113:
+4           
+[178, 518, 542, 742]Community114:
+2           
+[180, 386]Community115:
+3           
+[183, 250, 713]Community116:
+6           
+[191, 242, 365, 691, 821, 833]Community117:
+2           
+[194, 421]Community118:
+5           
+[195, 303, 683, 855, 864]Community119:
+2           
+[197, 678]Community120:
+2           
+[198, 704]Community121:
+2           
+[199, 219]Community122:
+8           
+[200, 395, 443, 455, 460, 563, 766, 827]Community123:
+5           
+[201, 348, 370, 613, 813]Community124:
+2           
+[206, 739]Community125:
+4           
+[214, 306, 499, 532]Community126:
+3           
+[221, 382, 733]Community127:
+3           
+[222, 411, 433]Community128:
+3           
+[226, 795, 881]Community129:
+5           
+[227, 280, 291, 496, 693]Community130:
+3           
+[234, 566, 789]Community131:
+5           
+[236, 308, 527, 720, 898]Community132:
+3           
+[239, 534, 857]Community133:
+2           
+[240, 269]Community134:
+2           
+[244, 506]Community135:
+2           
+[245, 677]Community136:
+2           
+[249, 719]Community137:
+2           
+[253, 361]Community138:
+2           
+[257, 555]Community139:
+2           
+[258, 480]Community140:
+3           
+[260, 575, 723]Community141:
+7           
+[261, 270, 409, 543, 547, 717, 746]Community142:
+2           
+[264, 777]Community143:
+2           
+[265, 632]Community144:
+3           
+[266, 451, 623]Community145:
+4           
+[267, 570, 752, 788]Community146:
+5           
+[268, 417, 630, 668, 702]Community147:
+7           
+[271, 383, 412, 587, 756, 786, 869]Community148:
+5           
+[274, 335, 546, 802, 884]Community149:
+2           
+[276, 778]Community150:
+2           
+[277, 447]Community151:
+2           
+[279, 428]Community152:
+3           
+[281, 631, 690]Community153:
+3           
+[282, 366, 805]Community154:
+4           
+[285, 426, 512, 755]Community155:
+4           
+[294, 380, 513, 801]Community156:
+2           
+[295, 676]Community157:
+4           
+[296, 490, 519, 538]Community158:
+3           
+[301, 554, 863]Community159:
+3           
+[302, 800, 829]Community160:
+3           
+[307, 466, 558]Community161:
+2           
+[309, 354]Community162:
+3           
+[313, 492, 754]Community163:
+3           
+[314, 524, 772]Community164:
+3           
+[325, 327, 899]Community165:
+3           
+[326, 446, 638]Community166:
+2           
+[329, 494]Community167:
+4           
+[333, 504, 505, 797]Community168:
+2           
+[337, 465]Community169:
+3           
+[340, 735, 737]Community170:
+4           
+[341, 479, 544, 633]Community171:
+2           
+[346, 854]Community172:
+2           
+[347, 831]Community173:
+2           
+[355, 420]Community174:
+4           
+[357, 438, 568, 776]Community175:
+2           
+[362, 387]Community176:
+2           
+[369, 748]Community177:
+2           
+[371, 390]Community178:
+3           
+[376, 565, 868]Community179:
+2           
+[378, 686]Community180:
+2           
+[381, 559]Community181:
+2           
+[384, 701]Community182:
+3           
+[405, 590, 757]Community183:
+2           
+[414, 889]Community184:
+2           
+[418, 515]Community185:
+5           
+[427, 491, 528, 697, 783]Community186:
+2           
+[429, 852]Community187:
+2           
+[432, 679]Community188:
+2           
+[434, 767]Community189:
+5           
+[448, 450, 459, 675, 818]Community190:
+2           
+[454, 732]Community191:
+2           
+[457, 883]Community192:
+2           
+[472, 556]Community193:
+2           
+[477, 634]Community194:
+2           
+[497, 861]Community195:
+3           
+[502, 611, 628]Community196:
+2           
+[503, 700]Community197:
+3           
+[509, 545, 671]Community198:
+2           
+[517, 564]Community199:
+2           
+[521, 645]Community200:
+3           
+[526, 715, 886]Community201:
+3           
+[530, 699, 799]Community202:
+3           
+[539, 580, 876]Community203:
+3           
+[540, 592, 874]Community204:
+2           
+[551, 640]Community205:
+2           
+[557, 770]Community206:
+5           
+[576, 596, 672, 771, 808]Community207:
+2           
+[581, 689]Community208:
+2           
+[582, 895]Community209:
+2           
+[585, 635]Community210:
+2           
+[588, 591]Community211:
+2           
+[589, 873]Community212:
+2           
+[595, 803]Community213:
+3           
+[598, 621, 749]Community214:
+2           
+[605, 674]Community215:
+2           
+[614, 843]Community216:
+2           
+[617, 846]Community217:
+2           
+[618, 718]Community218:
+2           
+[620, 888]Community219:
+2           
+[626, 781]Community220:
+2           
+[627, 673]Community221:
+2           
+[636, 709]Community222:
+2           
+[687, 872]Community223:
+2           
+[692, 785]Community224:
+3           
+[695, 858, 860]Community225:
+2           
+[710, 727]Community226:
+2           
+[724, 834]Community227:
+2           
+[745, 878]Community228:
+2           
+[753, 897]Community229:
+3           
+[768, 775, 832]Community230:
+2           
+[791, 819]Communities count: 231
+Time2:Community0:
+2           
+[1, 741]Community1:
+2           
+[2, 384]Community2:
+3           
+[3, 490, 662]Community3:
+13           
+[4, 44, 60, 127, 179, 206, 415, 502, 592, 600, 632, 875, 880]Community4:
+4           
+[6, 285, 546, 788]Community5:
+6           
+[7, 200, 368, 578, 831, 881]Community6:
+4           
+[8, 90, 522, 749]Community7:
+5           
+[9, 133, 543, 627, 876]Community8:
+6           
+[12, 229, 239, 423, 547, 857]Community9:
+7           
+[14, 104, 472, 676, 701, 821, 842]Community10:
+4           
+[18, 523, 708, 867]Community11:
+3           
+[19, 198, 787]Community12:
+5           
+[28, 52, 100, 328, 832]Community13:
+4           
+[29, 157, 187, 443]Community14:
+5           
+[30, 126, 512, 812, 897]Community15:
+6           
+[31, 214, 345, 622, 623, 858]Community16:
+2           
+[33, 83]Community17:
+2           
+[36, 631]Community18:
+6           
+[38, 65, 184, 221, 283, 544]Community19:
+6           
+[39, 77, 78, 369, 371, 596]Community20:
+5           
+[40, 169, 324, 525, 802]Community21:
+2           
+[43, 350]Community22:
+2           
+[45, 398]Community23:
+2           
+[46, 780]Community24:
+3           
+[47, 69, 729]Community25:
+3           
+[48, 395, 790]Community26:
+2           
+[49, 63]Community27:
+2           
+[50, 154]Community28:
+5           
+[51, 564, 748, 784, 830]Community29:
+3           
+[53, 355, 420]Community30:
+4           
+[54, 117, 401, 481]Community31:
+2           
+[55, 862]Community32:
+2           
+[56, 94]Community33:
+2           
+[57, 292]Community34:
+3           
+[58, 396, 829]Community35:
+3           
+[59, 227, 329]Community36:
+9           
+[61, 128, 457, 517, 560, 791, 848, 852, 896]Community37:
+6           
+[62, 72, 183, 297, 351, 892]Community38:
+2           
+[64, 887]Community39:
+4           
+[66, 288, 493, 603]Community40:
+2           
+[68, 85]Community41:
+6           
+[70, 129, 348, 391, 399, 562]Community42:
+4           
+[71, 86, 102, 869]Community43:
+2           
+[73, 241]Community44:
+3           
+[75, 238, 737]Community45:
+4           
+[81, 567, 645, 757]Community46:
+6           
+[82, 91, 424, 444, 463, 542]Community47:
+3           
+[84, 245, 336]Community48:
+3           
+[92, 192, 373]Community49:
+5           
+[93, 120, 123, 251, 703]Community50:
+5           
+[96, 595, 602, 732, 803]Community51:
+2           
+[97, 359]Community52:
+4           
+[98, 397, 655, 853]Community53:
+3           
+[99, 205, 615]Community54:
+3           
+[101, 432, 728]Community55:
+3           
+[105, 194, 763]Community56:
+3           
+[106, 197, 891]Community57:
+4           
+[107, 375, 590, 609]Community58:
+4           
+[108, 132, 382, 617]Community59:
+2           
+[119, 811]Community60:
+2           
+[121, 226]Community61:
+3           
+[124, 318, 839]Community62:
+2           
+[130, 379]Community63:
+3           
+[134, 593, 616]Community64:
+4           
+[135, 673, 744, 844]Community65:
+4           
+[137, 624, 817, 851]Community66:
+6           
+[141, 178, 295, 539, 545, 597]Community67:
+2           
+[142, 874]Community68:
+3           
+[143, 333, 386]Community69:
+5           
+[145, 146, 387, 725, 745]Community70:
+8           
+[149, 186, 233, 261, 414, 709, 739, 890]Community71:
+2           
+[150, 625]Community72:
+3           
+[151, 188, 855]Community73:
+2           
+[152, 492]Community74:
+4           
+[153, 435, 571, 698]Community75:
+2           
+[156, 548]Community76:
+2           
+[164, 320]Community77:
+5           
+[172, 243, 431, 549, 695]Community78:
+2           
+[173, 671]Community79:
+7           
+[180, 234, 388, 412, 637, 727, 786]Community80:
+3           
+[181, 372, 635]Community81:
+3           
+[182, 284, 752]Community82:
+3           
+[185, 494, 736]Community83:
+5           
+[190, 389, 582, 735, 822]Community84:
+3           
+[193, 518, 559]Community85:
+7           
+[196, 308, 434, 705, 751, 760, 859]Community86:
+4           
+[202, 419, 448, 450]Community87:
+4           
+[209, 236, 753, 898]Community88:
+3           
+[216, 438, 738]Community89:
+3           
+[219, 323, 872]Community90:
+3           
+[220, 699, 747]Community91:
+2           
+[222, 533]Community92:
+2           
+[224, 367]Community93:
+6           
+[230, 244, 418, 515, 809, 838]Community94:
+2           
+[231, 452]Community95:
+2           
+[237, 252]Community96:
+4           
+[240, 270, 274, 775]Community97:
+8           
+[242, 260, 337, 400, 447, 480, 495, 710]Community98:
+2           
+[247, 290]Community99:
+3           
+[248, 541, 719]Community100:
+2           
+[249, 743]Community101:
+4           
+[250, 346, 521, 854]Community102:
+3           
+[255, 365, 776]Community103:
+5           
+[257, 341, 479, 555, 827]Community104:
+2           
+[258, 422]Community105:
+2           
+[259, 724]Community106:
+6           
+[264, 293, 538, 677, 777, 865]Community107:
+10           
+[265, 321, 393, 585, 636, 726, 734, 789, 870, 878]Community108:
+2           
+[268, 706]Community109:
+3           
+[276, 497, 778]Community110:
+4           
+[278, 516, 730, 823]Community111:
+2           
+[279, 713]Community112:
+2           
+[280, 504]Community113:
+2           
+[281, 690]Community114:
+3           
+[282, 366, 805]Community115:
+6           
+[287, 357, 483, 619, 630, 633]Community116:
+2           
+[294, 298]Community117:
+3           
+[296, 489, 498]Community118:
+3           
+[307, 557, 770]Community119:
+2           
+[313, 421]Community120:
+3           
+[319, 405, 437]Community121:
+3           
+[322, 363, 767]Community122:
+2           
+[326, 446]Community123:
+2           
+[347, 556]Community124:
+2           
+[349, 895]Community125:
+7           
+[356, 370, 594, 613, 813, 816, 834]Community126:
+4           
+[360, 485, 572, 794]Community127:
+3           
+[362, 460, 510]Community128:
+2           
+[376, 496]Community129:
+5           
+[378, 392, 644, 686, 806]Community130:
+2           
+[383, 507]Community131:
+2           
+[390, 797]Community132:
+3           
+[394, 733, 782]Community133:
+2           
+[417, 871]Community134:
+3           
+[428, 742, 883]Community135:
+6           
+[429, 433, 442, 618, 766, 856]Community136:
+2           
+[445, 756]Community137:
+4           
+[476, 477, 638, 846]Community138:
+3           
+[482, 589, 873]Community139:
+2           
+[484, 634]Community140:
+2           
+[491, 783]Community141:
+2           
+[501, 580]Community142:
+3           
+[509, 554, 863]Community143:
+2           
+[526, 843]Community144:
+1           
+[529]Community145:
+3           
+[530, 540, 825]Community146:
+2           
+[531, 762]Community147:
+3           
+[558, 759, 861]Community148:
+2           
+[574, 691]Community149:
+2           
+[579, 598]Community150:
+2           
+[601, 868]Community151:
+2           
+[628, 672]Community152:
+2           
+[641, 654]Community153:
+2           
+[643, 833]Communities count: 154
+Time3:Community0:
+2           
+[1, 741]Community1:
+3           
+[2, 47, 198]Community2:
+3           
+[3, 68, 558]Community3:
+10           
+[4, 93, 101, 107, 123, 249, 251, 349, 597, 863]Community4:
+4           
+[6, 690, 709, 776]Community5:
+5           
+[8, 244, 258, 319, 405]Community6:
+5           
+[9, 152, 636, 726, 854]Community7:
+3           
+[12, 205, 229]Community8:
+2           
+[18, 897]Community9:
+4           
+[19, 43, 135, 442]Community10:
+2           
+[31, 858]Community11:
+3           
+[33, 83, 355]Community12:
+2           
+[35, 369]Community13:
+5           
+[36, 173, 307, 376, 595]Community14:
+7           
+[39, 77, 78, 248, 543, 548, 632]Community15:
+5           
+[40, 96, 400, 627, 891]Community16:
+2           
+[42, 484]Community17:
+2           
+[45, 268]Community18:
+4           
+[46, 126, 185, 231]Community19:
+4           
+[48, 105, 559, 579]Community20:
+4           
+[49, 94, 106, 733]Community21:
+2           
+[50, 154]Community22:
+4           
+[52, 382, 434, 451]Community23:
+4           
+[53, 183, 346, 735]Community24:
+3           
+[54, 643, 833]Community25:
+3           
+[55, 56, 284]Community26:
+3           
+[58, 100, 832]Community27:
+6           
+[59, 227, 329, 447, 495, 600]Community28:
+4           
+[60, 752, 788, 843]Community29:
+4           
+[62, 398, 437, 650]Community30:
+7           
+[64, 276, 391, 445, 496, 530, 679]Community31:
+6           
+[70, 197, 362, 634, 767, 872]Community32:
+10           
+[72, 265, 293, 390, 423, 497, 531, 557, 870, 878]Community33:
+3           
+[81, 406, 871]Community34:
+3           
+[84, 673, 676]Community35:
+4           
+[86, 230, 367, 686]Community36:
+3           
+[90, 488, 867]Community37:
+4           
+[91, 92, 234, 727]Community38:
+2           
+[97, 592]Community39:
+3           
+[99, 164, 188]Community40:
+2           
+[102, 789]Community41:
+2           
+[117, 161]Community42:
+3           
+[119, 517, 811]Community43:
+3           
+[124, 389, 822]Community44:
+2           
+[129, 601]Community45:
+2           
+[131, 224]Community46:
+2           
+[133, 883]Community47:
+2           
+[134, 857]Community48:
+5           
+[141, 178, 295, 387, 613]Community49:
+3           
+[142, 216, 874]Community50:
+4           
+[153, 498, 698, 744]Community51:
+3           
+[157, 239, 443]Community52:
+5           
+[179, 471, 480, 516, 740]Community53:
+2           
+[182, 489]Community54:
+4           
+[184, 283, 379, 860]Community55:
+3           
+[186, 624, 701]Community56:
+5           
+[187, 315, 418, 644, 861]Community57:
+3           
+[192, 545, 834]Community58:
+3           
+[193, 706, 802]Community59:
+7           
+[194, 322, 363, 696, 700, 734, 778]Community60:
+3           
+[196, 705, 751]Community61:
+2           
+[201, 206]Community62:
+2           
+[220, 499]Community63:
+7           
+[221, 360, 515, 518, 540, 738, 844]Community64:
+2           
+[222, 383]Community65:
+2           
+[228, 415]Community66:
+6           
+[235, 345, 388, 394, 525, 725]Community67:
+3           
+[236, 720, 898]Community68:
+4           
+[238, 308, 647, 729]Community69:
+3           
+[240, 803, 875]Community70:
+2           
+[241, 432]Community71:
+4           
+[242, 491, 783, 865]Community72:
+2           
+[243, 887]Community73:
+4           
+[247, 562, 721, 763]Community74:
+3           
+[250, 502, 544]Community75:
+16           
+[252, 270, 323, 395, 431, 433, 444, 521, 523, 589, 596, 748, 760, 766, 784, 830]Community76:
+3           
+[255, 598, 876]Community77:
+2           
+[257, 555]Community78:
+2           
+[259, 708]Community79:
+2           
+[260, 337]Community80:
+2           
+[261, 671]Community81:
+3           
+[264, 541, 777]Community82:
+4           
+[274, 353, 775, 786]Community83:
+3           
+[279, 428, 829]Community84:
+4           
+[282, 501, 580, 805]Community85:
+4           
+[285, 296, 512, 546]Community86:
+3           
+[287, 357, 633]Community87:
+4           
+[288, 653, 825, 855]Community88:
+3           
+[290, 393, 477]Community89:
+3           
+[292, 482, 873]Community90:
+2           
+[297, 602]Community91:
+2           
+[320, 510]Community92:
+3           
+[326, 446, 588]Community93:
+2           
+[333, 420]Community94:
+3           
+[336, 737, 868]Community95:
+2           
+[347, 556]Community96:
+2           
+[370, 813]Community97:
+3           
+[371, 493, 573]Community98:
+2           
+[373, 742]Community99:
+1           
+[375]Community100:
+2           
+[384, 507]Community101:
+2           
+[386, 797]Community102:
+2           
+[392, 869]Community103:
+2           
+[417, 630]Community104:
+5           
+[421, 476, 617, 638, 846]Community105:
+3           
+[422, 594, 703]Community106:
+2           
+[424, 522]Community107:
+3           
+[435, 492, 646]Community108:
+2           
+[448, 450]Community109:
+2           
+[478, 730]Community110:
+3           
+[479, 550, 641]Community111:
+2           
+[494, 757]Community112:
+2           
+[529, 790]Community113:
+4           
+[538, 662, 743, 745]Community114:
+3           
+[539, 759, 806]Community115:
+2           
+[549, 695]Community116:
+2           
+[572, 618]Community117:
+2           
+[578, 881]Community118:
+3           
+[585, 739, 762]Community119:
+6           
+[593, 616, 637, 655, 853, 856]Community120:
+3           
+[619, 645, 895]Community121:
+2           
+[628, 672]Community122:
+2           
+[652, 787]Community123:
+2           
+[713, 753]Community124:
+2           
+[782, 800]Communities count: 125
+Time4:Community0:
+4           
+[1, 357, 447, 741]Community1:
+8           
+[2, 47, 69, 157, 384, 410, 450, 743]Community2:
+4           
+[3, 68, 244, 283]Community3:
+5           
+[4, 492, 593, 631, 805]Community4:
+2           
+[5, 594]Community5:
+5           
+[6, 106, 281, 285, 296]Community6:
+5           
+[8, 90, 490, 749, 867]Community7:
+5           
+[9, 224, 251, 349, 597]Community8:
+5           
+[12, 99, 188, 486, 489]Community9:
+3           
+[18, 843, 897]Community10:
+2           
+[28, 776]Community11:
+3           
+[31, 733, 858]Community12:
+2           
+[32, 46]Community13:
+3           
+[33, 83, 186]Community14:
+3           
+[36, 351, 501]Community15:
+4           
+[39, 156, 206, 630]Community16:
+7           
+[40, 264, 519, 538, 559, 662, 745]Community17:
+2           
+[43, 350]Community18:
+3           
+[45, 49, 695]Community19:
+2           
+[48, 522]Community20:
+3           
+[50, 360, 444]Community21:
+7           
+[51, 369, 542, 546, 713, 748, 804]Community22:
+2           
+[52, 64]Community23:
+2           
+[53, 881]Community24:
+9           
+[55, 56, 282, 284, 431, 615, 705, 751, 787]Community25:
+2           
+[59, 757]Community26:
+3           
+[60, 752, 788]Community27:
+7           
+[62, 86, 102, 388, 488, 644, 896]Community28:
+3           
+[65, 221, 293]Community29:
+6           
+[70, 141, 178, 390, 545, 759]Community30:
+4           
+[71, 345, 392, 869]Community31:
+2           
+[80, 152]Community32:
+5           
+[81, 179, 400, 543, 727]Community33:
+5           
+[84, 336, 582, 673, 676]Community34:
+5           
+[91, 424, 477, 510, 540]Community35:
+3           
+[92, 249, 707]Community36:
+2           
+[93, 373]Community37:
+4           
+[94, 222, 250, 515]Community38:
+2           
+[96, 803]Community39:
+5           
+[97, 372, 415, 592, 825]Community40:
+9           
+[101, 134, 153, 297, 308, 448, 498, 674, 744]Community41:
+5           
+[104, 332, 355, 420, 493]Community42:
+5           
+[105, 421, 517, 585, 739]Community43:
+5           
+[107, 260, 403, 609, 829]Community44:
+2           
+[119, 811]Community45:
+3           
+[123, 766, 844]Community46:
+9           
+[126, 133, 237, 265, 452, 531, 595, 777, 790]Community47:
+6           
+[128, 324, 454, 690, 709, 738]Community48:
+2           
+[129, 601]Community49:
+3           
+[131, 530, 626]Community50:
+2           
+[132, 617]Community51:
+3           
+[142, 216, 874]Community52:
+2           
+[144, 618]Community53:
+2           
+[150, 187]Community54:
+6           
+[154, 391, 557, 696, 747, 863]Community55:
+3           
+[158, 227, 657]Community56:
+4           
+[164, 320, 323, 544]Community57:
+3           
+[172, 549, 658]Community58:
+4           
+[173, 184, 346, 376]Community59:
+5           
+[175, 177, 290, 333, 418]Community60:
+7           
+[182, 183, 239, 279, 428, 496, 857]Community61:
+4           
+[190, 389, 453, 822]Community62:
+2           
+[196, 481]Community63:
+4           
+[197, 356, 362, 634]Community64:
+4           
+[205, 229, 780, 871]Community65:
+2           
+[220, 625]Community66:
+6           
+[226, 408, 435, 484, 485, 660]Community67:
+2           
+[236, 753]Community68:
+5           
+[238, 337, 651, 711, 737]Community69:
+3           
+[240, 274, 712]Community70:
+4           
+[241, 432, 499, 782]Community71:
+3           
+[242, 371, 377]Community72:
+6           
+[245, 294, 313, 315, 596, 598]Community73:
+2           
+[246, 641]Community74:
+4           
+[247, 495, 763, 891]Community75:
+3           
+[255, 365, 876]Community76:
+7           
+[256, 363, 393, 451, 734, 812, 834]Community77:
+2           
+[257, 548]Community78:
+2           
+[258, 480]Community79:
+4           
+[259, 433, 708, 730]Community80:
+2           
+[261, 671]Community81:
+7           
+[262, 395, 429, 434, 443, 479, 742]Community82:
+3           
+[268, 437, 729]Community83:
+5           
+[270, 422, 497, 706, 880]Community84:
+2           
+[276, 778]Community85:
+2           
+[286, 394]Community86:
+2           
+[287, 854]Community87:
+6           
+[292, 298, 482, 589, 755, 873]Community88:
+6           
+[295, 521, 558, 853, 861, 895]Community89:
+3           
+[319, 588, 846]Community90:
+2           
+[326, 446]Community91:
+2           
+[347, 556]Community92:
+3           
+[359, 516, 740]Community93:
+2           
+[367, 686]Community94:
+2           
+[383, 507]Community95:
+2           
+[386, 754]Community96:
+4           
+[387, 404, 648, 785]Community97:
+5           
+[398, 417, 541, 661, 719]Community98:
+4           
+[406, 442, 622, 856]Community99:
+4           
+[407, 552, 560, 572]Community100:
+2           
+[413, 423]Community101:
+2           
+[440, 476]Community102:
+2           
+[445, 833]Community103:
+2           
+[463, 555]Community104:
+3           
+[472, 636, 701]Community105:
+2           
+[478, 868]Community106:
+2           
+[491, 783]Community107:
+2           
+[523, 645]Community108:
+4           
+[564, 573, 725, 830]Community109:
+4           
+[578, 590, 721, 831]Community110:
+3           
+[624, 851, 883]Community111:
+4           
+[627, 789, 870, 878]Community112:
+2           
+[637, 892]Community113:
+3           
+[652, 703, 813]Community114:
+2           
+[659, 732]Community115:
+3           
+[736, 802, 872]Community116:
+2           
+[775, 786]Communities count: 117
+Time5:Community0:
+3           
+[2, 384, 661]Community1:
+4           
+[3, 8, 244, 490]Community2:
+17           
+[4, 194, 198, 294, 346, 376, 395, 434, 451, 478, 501, 517, 649, 664, 734, 790, 854]Community3:
+8           
+[6, 127, 292, 324, 592, 690, 709, 890]Community4:
+5           
+[9, 107, 177, 498, 725]Community5:
+5           
+[12, 99, 188, 486, 872]Community6:
+5           
+[14, 222, 296, 390, 446]Community7:
+9           
+[18, 84, 238, 240, 523, 673, 708, 762, 843]Community8:
+16           
+[19, 39, 77, 78, 152, 156, 206, 226, 231, 242, 248, 329, 371, 373, 628, 632]Community9:
+2           
+[31, 733]Community10:
+2           
+[33, 97]Community11:
+5           
+[36, 280, 504, 567, 573]Community12:
+26           
+[40, 52, 55, 60, 93, 101, 123, 187, 249, 251, 270, 287, 435, 484, 512, 594, 597, 627, 636, 706, 757, 759, 782, 786, 839, 863]Community13:
+5           
+[45, 62, 183, 388, 875]Community14:
+5           
+[47, 69, 356, 676, 729]Community15:
+3           
+[49, 418, 515]Community16:
+2           
+[50, 444]Community17:
+4           
+[51, 184, 283, 387]Community18:
+3           
+[53, 624, 793]Community19:
+2           
+[58, 832]Community20:
+2           
+[61, 494]Community21:
+5           
+[68, 85, 174, 229, 402]Community22:
+4           
+[73, 241, 586, 726]Community23:
+3           
+[75, 531, 874]Community24:
+2           
+[80, 360]Community25:
+8           
+[81, 182, 261, 479, 546, 742, 775, 883]Community26:
+4           
+[83, 186, 216, 739]Community27:
+4           
+[90, 274, 737, 867]Community28:
+6           
+[91, 92, 205, 542, 615, 727]Community29:
+4           
+[94, 493, 686, 778]Community30:
+3           
+[96, 336, 357]Community31:
+2           
+[102, 869]Community32:
+9           
+[105, 225, 260, 579, 666, 730, 738, 743, 751]Community33:
+4           
+[106, 281, 711, 881]Community34:
+4           
+[119, 181, 635, 672]Community35:
+4           
+[121, 421, 424, 780]Community36:
+4           
+[128, 268, 492, 776]Community37:
+8           
+[133, 134, 345, 541, 593, 637, 655, 853]Community38:
+3           
+[141, 476, 477]Community39:
+9           
+[142, 197, 355, 420, 595, 732, 803, 830, 831]Community40:
+2           
+[150, 625]Community41:
+6           
+[153, 221, 363, 428, 544, 744]Community42:
+4           
+[154, 641, 766, 844]Community43:
+3           
+[164, 362, 895]Community44:
+4           
+[173, 243, 290, 308]Community45:
+5           
+[178, 419, 431, 518, 540]Community46:
+2           
+[179, 480]Community47:
+2           
+[185, 868]Community48:
+3           
+[204, 557, 871]Community49:
+2           
+[220, 394]Community50:
+2           
+[234, 295]Community51:
+7           
+[236, 250, 349, 391, 502, 521, 713]Community52:
+6           
+[239, 247, 319, 663, 736, 857]Community53:
+3           
+[245, 445, 785]Community54:
+2           
+[255, 598]Community55:
+3           
+[257, 548, 555]Community56:
+7           
+[258, 264, 265, 293, 522, 735, 777]Community57:
+3           
+[282, 423, 705]Community58:
+6           
+[284, 481, 741, 752, 788, 893]Community59:
+2           
+[310, 617]Community60:
+2           
+[312, 590]Community61:
+2           
+[313, 701]Community62:
+3           
+[318, 488, 558]Community63:
+2           
+[320, 510]Community64:
+3           
+[323, 400, 559]Community65:
+2           
+[370, 613]Community66:
+4           
+[383, 596, 753, 897]Community67:
+2           
+[386, 609]Community68:
+4           
+[389, 392, 443, 822]Community69:
+3           
+[415, 634, 851]Community70:
+2           
+[417, 507]Community71:
+5           
+[422, 433, 585, 652, 703]Community72:
+2           
+[437, 650]Community73:
+2           
+[442, 856]Community74:
+2           
+[447, 600]Community75:
+2           
+[448, 450]Community76:
+2           
+[491, 783]Community77:
+3           
+[495, 560, 891]Community78:
+2           
+[527, 876]Community79:
+5           
+[538, 543, 545, 662, 745]Community80:
+2           
+[572, 794]Community81:
+2           
+[588, 873]Community82:
+2           
+[644, 861]Community83:
+2           
+[665, 671]Community84:
+3           
+[789, 870, 878]Community85:
+2           
+[833, 858]Communities count: 86
